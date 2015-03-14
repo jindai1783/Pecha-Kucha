@@ -6,7 +6,7 @@ Collaborating with [Sanda] and [Matteo], we build an application for randomly ch
 
 ![alt text][screen]
 
-[screen]: https://github.com/jindai1783/Pecha_Kucha/tree/master/public/screen.png
+[screen]: https://github.com/jindai1783/Pecha_Kucha/blob/master/public/screen.png
 
 ## Try It
 
