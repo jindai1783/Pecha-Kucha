@@ -1,6 +1,17 @@
-## pecha-kucha
+# Pecha Kucha
 
-###What is that?
-Application for randomly choosing a next person to do a Pecha Kucha presentation for our friday session at Makers Academy. Created together with Matteo Manzo and Jin Dai.
+## Introduction
 
-After we done, we celebrate!
+Collaborating with [Sanda] and [Matteo], we build an application for randomly choosing a next person to do a Pecha Kucha presentation for our friday session at Makers Academy.
+
+![alt text][screen]
+
+[screen]: https://github.com/jindai1783/Pecha_Kucha/tree/master/public/screen.png
+
+## Try It
+
+```
+rackup
+```
+
+Then, point your browser to http://localhost:9292, have fun!
